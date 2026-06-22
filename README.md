@@ -21,8 +21,8 @@ and design **LLM platforms** with LangGraph multi-agent orchestration, LangChain
 and LangSmith observability. I care about clean code, maintainable architecture, real-time
 data reliability, and shipping AI features into production without disrupting live workloads.
 
-I'm a fast learner and a team player who enjoys solving complex problems — always open to new
-technologies and meaningful products.
+I'm a fast learner and a team player who enjoys solving complex problems, and I'm always open
+to new technologies and meaningful products.
 
 ---
 
@@ -51,10 +51,10 @@ technologies and meaningful products.
 
 ## Featured Projects
 
-- **🤖 AI Agent (FinTech)** — Production multi-agent analysis platform using LangGraph state machines, tool-use patterns, and LangSmith observability under live exchange load.
-- **🔄 Kafka → BigQuery ETL** — Real-time ETL pipeline feeding a BI reporting layer for trading and platform data, with validation and monitoring patterns.
-- **📈 Signalier** — Automated trading-signal service in Node.js / TypeScript / WebSocket with real-time ingestion and low-latency alerting.
-- **👛 Wallet Watch** — Real-time blockchain wallet scanner sending configurable alerts from high-volume on-chain event streams.
+- **🤖 AI Agent (FinTech):** Production multi-agent analysis platform using LangGraph state machines, tool-use patterns, and LangSmith observability under live exchange load.
+- **🔄 Kafka to BigQuery ETL:** Real-time ETL pipeline feeding a BI reporting layer for trading and platform data, with validation and monitoring patterns.
+- **📈 Signalier:** Automated trading-signal service in Node.js / TypeScript / WebSocket with real-time ingestion and low-latency alerting.
+- **👛 Wallet Watch:** Real-time blockchain wallet scanner sending configurable alerts from high-volume on-chain event streams.
 
 ---
 
